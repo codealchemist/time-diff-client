@@ -8,6 +8,7 @@
     "test-focus": "standard-focus"
   },
   "author": "Alberto Miranda",
+  "repository": "codealchemist/time-diff-client",
   "license": "MIT",
   "dependencies": {
     "ws": "^2.3.1"
