@@ -5,7 +5,7 @@ to calculate time diff with it, useful for time synchronization.
 
 ## Use case
 
-Let's say you want to run something on multiple clients with very low time different
+Let's say you want to run something on multiple clients with very low time difference
 between them. Start playing audio, for example.
 
 **time-diff-client** will help you do that by allowing each client to calculate
@@ -22,7 +22,7 @@ all clients to do stuff at server time, thus achieving a good level of synchrony
 
 ## Usage
 
-**time-diff-client** comes in two fashions:
+**time-diff-client** comes in two flavors:
 
 - WebSockets
 - UDP
